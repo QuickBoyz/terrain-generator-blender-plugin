@@ -16,7 +16,6 @@ bl_info = {
 import bpy
 from bpy.props import IntProperty, FloatProperty, EnumProperty, BoolProperty
 from bpy.types import Operator, Panel, PropertyGroup
-import bmesh
 from mathutils import Vector
 import random
 import math
